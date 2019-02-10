@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod2_DIY", "Mod2_DIY\Mod2_DIY.csproj", "{9B37AD2D-D653-4B56-9F39-5D0666FED7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B37AD2D-D653-4B56-9F39-5D0666FED7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B37AD2D-D653-4B56-9F39-5D0666FED7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B37AD2D-D653-4B56-9F39-5D0666FED7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B37AD2D-D653-4B56-9F39-5D0666FED7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA37CBCE-8D86-42CE-A7E6-5653B1B54AAE}
+	EndGlobalSection
+EndGlobal
